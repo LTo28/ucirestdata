@@ -1,107 +1,105 @@
-let uciRestrooms = [
-  {
-    name: "Middle Earth Housing Office",
-    lat: 33.644683,
-    lng: -117.837431
-  },
-  {
-    name: "Engineering and Computing Trailer",
-    lat: 33.644019,
-    lng: -117.840108
-  },
-  {
-    name: "Rockwell Engineering Center",
-    lat: 33.643885,
-    lng: -117.840574
-  },
-  {
-    name: "Information and Computer Science 2",
-    lat: 33.643941,
-    lng: -117.841666
-  },
-  {
-    name: "Engineering Tower",
-    lat: 33.644685,
-    lng: -117.8411
-  },
-  {
-    name: "Rowland Hall",
-    lat: 33.644441,
-    lng: -117.843968
-  },
-  {
-    name: "Croul Hall",
-    lat: 33.6437,
-    lng: -117.844574
-  },
-  {
-    name: "Campus Village Housing",
-    lat: 33.645219,
-    lng: -117.846938
-  },
-  {
-    name: "Schneiderman Lecture Hall",
-    lat: 33.645594,
-    lng: -117.84462
-  },
-  {
-    name: "Steinhaus Hall",
-    lat: 33.646237,
-    lng: -117.844851
-  },
-  {
-    name: "Science Library",
-    lat: 33.645812,
-    lng: -117.846325
-  },
-  {
-    name: "Arts Annex",
-    lat: 33.646399,
-    lng: -117.847027
-  },
-  {
-    name: "Humanities Hall",
-    lat: 33.647356,
-    lng: -117.844109
-  },
-  {
-    name: "Krieger Hall",
-    lat: 33.64774,
-    lng: -117.843616
-  },
-  {
-    name: "Music and Media Building",
-    lat: 33.649328,
-    lng: -117.844429
-  },
-  {
-    name: "Student Center",
-    lat: 33.648593,
-    lng: --117.842746
-  },
-  {
-    name: "Studen Services",
-    lat: 33.647798,
-    lng: -117.842322
-  },
-  {
-    name: "Bookstore",
-    lat: 33.648369,
-    lng: 33.648369
-  },
-  {
-    name: "Aldrich Hall",
-    lat: 33.648512,
-    lng: -117.841026
-  },
-  {
-    name: "Social and Behavioral Sciences",
-    lat: 33.647441,
-    lng: -117.839202
-  },
-  {
-    name: "Anteater Community Resource Center",
-    lat: 33.653852,
-    lng: -117.843846
-  }
-]
+{
+  "name": "Middle Earth Housing Office",
+  "lat": 33.644683,
+  "lng": -117.837431
+},
+{
+  "name": "Engineering and Computing Trailer",
+  "lat": 33.644019,
+  "lng": -117.840108
+},
+{
+  "name": "Rockwell Engineering Center",
+  "lat": 33.643885,
+  "lng": -117.840574
+},
+{
+  "name": "Information and Computer Science 2",
+  "lat": 33.643941,
+  "lng": -117.841666
+},
+{
+  "name": "Engineering Tower",
+  "lat": 33.644685,
+  "lng": -117.8411
+},
+{
+  "name": "Rowland Hall",
+  "lat": 33.644441,
+  "lng": -117.843968
+},
+{
+  "name": "Croul Hall",
+  "lat": 33.6437,
+  "lng": -117.844574
+},
+{
+  "name": "Campus Village Housing",
+  "lat": 33.645219,
+  "lng": -117.846938
+},
+{
+  "name": "Schneiderman Lecture Hall",
+  "lat": 33.645594,
+  "lng": -117.84462
+},
+{
+  "name": "Steinhaus Hall",
+  "lat": 33.646237,
+  "lng": -117.844851
+},
+{
+  "name": "Science Library",
+  "lat": 33.645812,
+  "lng": -117.846325
+},
+{
+  "name": "Arts Annex",
+  "lat": 33.646399,
+  "lng": -117.847027
+},
+{
+  "name": "Humanities Hall",
+  "lat": 33.647356,
+  "lng": -117.844109
+},
+{
+  "name": "Krieger Hall",
+  "lat": 33.64774,
+  "lng": -117.843616
+},
+{
+  "name": "Music and Media Building",
+  "lat": 33.649328,
+  "lng": -117.844429
+},
+{
+  "name": "Student Center",
+  "lat": 33.648593,
+  "lng": -117.842746
+},
+{
+  "name": "Studen Services",
+  "lat": 33.647798,
+  "lng": -117.842322
+},
+{
+  "name": "Bookstore",
+  "lat": 33.648369,
+  "lng": 33.648369
+},
+{
+  "name": "Aldrich Hall",
+  "lat": 33.648512,
+  "lng": -117.841026
+},
+{
+  "name": "Social and Behavioral Sciences",
+  "lat": 33.647441,
+  "lng": -117.839202
+},
+{
+  "name": "Anteater Community Resource Center",
+  "lat": 33.653852,
+  "lng": -117.843846
+}
