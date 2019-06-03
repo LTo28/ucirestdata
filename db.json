@@ -3,19 +3,17 @@
   {
     "id": 1,
     "name": "Middle Earth Housing Office",
-    "lat": 33.644683,
-    "lng": -117.837431
+    "position": { "lat": 33.644683, "lng": -117.837431}
   },
   {
     "id": 2,
     "name": "Engineering and Computing Trailer",
-    "lat": 33.644019,
-    "lng": -117.840108
+    "position": { "lat": 33.644019, "lng": -117.840108}
+    
   },
   {
     "id": 3,
     "name": "Rockwell Engineering Center",
-    "lat": 33.643885,
-    "lng": -117.840574
+    "position": {"lat": 33.643885, "lng": -117.840574}
   }
 ]}
